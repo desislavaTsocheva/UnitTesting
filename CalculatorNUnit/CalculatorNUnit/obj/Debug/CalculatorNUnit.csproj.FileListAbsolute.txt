@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\bin\Debug\CalculatorNUnit.exe.config
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\bin\Debug\CalculatorNUnit.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\bin\Debug\CalculatorNUnit.pdb
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.pdb

@@ -1,0 +1,16 @@
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\viole\OneDrive\Работен плот\MVC\Konkurentnost\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\bin\Debug\Calculator.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\bin\Debug\Calculator.pdb
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\obj\Debug\Calculator.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\obj\Debug\DebuggingProgram.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\obj\Debug\DebuggingProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\obj\Debug\DebuggingProgram.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\bin\Debug\DebuggingProgram.exe.config
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\bin\Debug\DebuggingProgram.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\bin\Debug\DebuggingProgram.pdb
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\obj\Debug\DebuggingProgram.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\DebuggingAndReforming\DebuggingProgram\obj\Debug\DebuggingProgram.pdb

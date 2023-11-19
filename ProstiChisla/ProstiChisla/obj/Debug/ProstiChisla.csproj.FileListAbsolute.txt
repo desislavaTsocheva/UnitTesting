@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\bin\Debug\ProstiChisla.exe.config
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\bin\Debug\ProstiChisla.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\bin\Debug\ProstiChisla.pdb
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\obj\Debug\ProstiChisla.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\obj\Debug\ProstiChisla.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\obj\Debug\ProstiChisla.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\obj\Debug\ProstiChisla.exe
+C:\Users\viole\OneDrive\Работен плот\UnitTests\ProstiChisla\ProstiChisla\obj\Debug\ProstiChisla.pdb
